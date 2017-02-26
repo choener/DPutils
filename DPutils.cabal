@@ -36,7 +36,7 @@ Library
                , containers
                , kan-extensions   >= 4.0    &&  < 6.0
                , parallel         >= 3.0    &&  < 4.0
-               , pipes            >= 4.0    &&  < 4.3
+               , pipes            >= 4.0    &&  < 4.4
                , QuickCheck       >= 2.7
                , vector           >= 0.10   &&  < 0.12
   default-extensions: BangPatterns
